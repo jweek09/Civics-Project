@@ -1,0 +1,8 @@
+#contentWrapper {
+    box-sizing: border-box;
+    background-image: url('https://cdn.britannica.com/28/216628-050-7451438E/portrait-of-us-president-woodrow-wilson-by-harriet-anderson-stubbs-murphy-1919.jpg?w=400&h=300&c=crop');
+    background-size: cover;
+    padding: 20px;
+    filter: grayscale(100%);
+    min-height: 94vh;
+}

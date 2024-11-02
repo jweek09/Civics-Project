@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Slabo+13px&display=swap');
+.slabo {
+    font-family: 'Slabo 13px', serif;
+}
+.formalFont {
+    font-family: sans-serif, serif;
+}
+.whiteFont {
+    color: white;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+a, a:hover, a:active, a:visited {
+    text-decoration: none;
+    color: inherit;
+}
+strong {
+    font-size: 30px;
+}
+body {
+    background: black;
+}
+.homeBar {
+    height: 6vh;
+    background: cornflowerblue;
+}
+ul {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.homeBarButton {
+    box-sizing: border-box;
+    font-size: large;
+    margin: 0;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    background: inherit;
+    height: 100%;
+}
+.homeBarButton:hover {
+    background: rgba(0, 0, 0, 0.4);
+}
+#woodieOnline {
+    margin-left: auto;
+    margin-right: 10px;
+    font-size: x-large;
+    display: flex;
+}
+#borderButton {
+    border-right: 4px solid royalblue;
+}
