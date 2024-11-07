@@ -1,0 +1,6 @@
+TODO: Create webpages for the home bar
+TODO: Rewrite the first essay on the bio page
+TODO: Animate the Home page (you lazy bum)
+TODO: Redo the font class names
+TODO: Expand on the second Bio page essay
+TODO: Make the GitHub public

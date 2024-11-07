@@ -1,0 +1,13 @@
+#campContentWrapper {
+    box-sizing: border-box;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 96vh;
+    height: auto;
+    justify-content: center;
+    background-image: url(../images/Campaign-BG-Woodie.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}

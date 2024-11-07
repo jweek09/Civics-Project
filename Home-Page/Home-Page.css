@@ -1,0 +1,51 @@
+#homeContentWrapper {
+    box-sizing: border-box;
+    display: flex;
+    background-image: url('https://cdn.britannica.com/28/216628-050-7451438E/portrait-of-us-president-woodrow-wilson-by-harriet-anderson-stubbs-murphy-1919.jpg?w=400&h=300&c=crop');
+    background-size: cover;
+    padding: 0;
+    filter: grayscale(100%);
+    min-height: 94vh;
+    max-height: 94vh;
+}
+
+#leftHomeBarText {
+    font-size: 47px;
+}
+
+#leftHomeSideBar {
+    display: flex;
+    writing-mode: vertical-lr;
+    background: black;
+    margin: 0;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+    border-top: 4px solid inherit;
+    border-right: 4px solid gray;
+}
+
+#rightHomeSideBar {
+    display: flex;
+    writing-mode: vertical-lr;
+    background: black;
+    margin: 0 0 0 auto;
+    height: 100%;
+    align-content: center;
+    justify-content: center;
+    border-top: 4px solid inherit;
+    border-left: 4px solid gray;
+}
+
+#rightHomeBarText {
+    font-size: 47px;
+}
+#infoCardHoverWarning {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 15px;
+    margin: 0;
+    border-top: 4px solid grey;
+    color: white;
+}
